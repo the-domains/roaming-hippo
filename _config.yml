@@ -1,0 +1,28 @@
+name: Roaming Hippo
+favicon: null
+layout_spectrum: 0.5357718844898045
+typography_spectrum: 0.8972098894882947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6911312276497483
+  lightness: 0.07431111042387784
+  saturation: 0.004904496483504772
+  rhythmicContrast: 0.3326872775796801
+purpose: []
